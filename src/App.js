@@ -7,7 +7,7 @@ import Widgets from './Widgets';
 import Login from './Login';
 
 function App() {
-  const user = "Aditya";
+  const user = null;
   return (
     // BEM naming convention
     <div className="app">
